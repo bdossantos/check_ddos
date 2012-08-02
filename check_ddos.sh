@@ -1,5 +1,5 @@
 #!/bin/bash
-# check_ddos Nagios plugin
+# Check DDOS attack plugin for Nagios
 #
 # Options :
 #   -w/--warning)
